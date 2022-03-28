@@ -1,0 +1,20 @@
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+	background-color: white;
+}
+#left-column{
+	width:40%;
+	float:left;
+	background-color:coral;
+}
+#left-column img{
+	width:200px;
+}
+img#logo{
+	position: fixed;
+	width:150px;
+	bottom:20px;
+	right:10px;
+}
